@@ -161,3 +161,6 @@ pytest backend/test_main.py
 ## 📄 License
 
 MIT — free to use, modify, and distribute.
+![App UI](screenshots/Screenshot%202026-04-27%20164756.png)
+![PDF Upload](screenshots/Screenshot%202026-04-27%20164836.png)
+![Answer](screenshots/Screenshot%202026-04-27%20165005.png)
